@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = primecoin-qt
-macx:TARGET = "Primecoin-Qt"
+TARGET = alienatoms-qt
+macx:TARGET = "AlienAtoms-Qt"
 VERSION = 0.8.3
 INCLUDEPATH += src src/json src/qt
 QT += network
